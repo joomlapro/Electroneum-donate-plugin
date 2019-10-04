@@ -1,1 +1,1 @@
-Electroneum Instant Payment for Joomlas leading donation extension. JoomDonation is powerful, features rich, easy to use Joomla donation extension. It allows you to collect donors information and get donation (onetime and recurring) from them via online payment gateways such as Paypal, Authorize.net, Eway, PayU Latam, Stripe and Electroneum Instant Payment.
+With this Joomla plugin you can easily add a simple Electroneum Donation form that is integrated with Electroneums Instant Payment API.
